@@ -17,4 +17,4 @@
    npx kedi
    ```
 
-<img src="https://i.imgur.com/r4O37BH.png">
+<img src="https://i.imgur.com/mAXLd3o.png">
